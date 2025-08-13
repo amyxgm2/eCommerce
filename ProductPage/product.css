@@ -61,7 +61,11 @@ header{
     margin-bottom: 10px;
 }
 
-
+.product-card{
+    background-color: white;
+    border: solid black 5px;
+    text-align: center;
+}
 
 footer {
     background-color: pink;
@@ -76,4 +80,14 @@ footer img{
     margin: 10px;
     width: 130px;
     height: auto;
+}
+
+@media screen and (max-width: 800px) {
+    #productContainer{
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .menu a{
+        margin: 8px;
+    }
 }

@@ -7,7 +7,7 @@ const emailDomains = ["@gmail", "@yahoo", "@outlook", "@aol", "@icloud", "@hotma
 
 contactForm.addEventListener('submit', function(event) {
     
-        event.preventDefault(); // Preveconsole.log('submitted')
+        event.preventDefault(); 
 
     const inputValue = emailAddress.value.toLowerCase();
     let validEmail = false;

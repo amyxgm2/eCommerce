@@ -76,3 +76,9 @@ footer img{
     width: 130px;
     height: auto;
 }
+
+@media screen and (max-width: 800px){
+    .menu a{
+        margin: 8px;
+    }
+}

@@ -124,3 +124,9 @@ footer img{
 #statusCheck{
     color:red;
 }
+
+@media screen and (max-width: 800px){
+    .menu a{
+        margin: 8px;
+    }
+}
