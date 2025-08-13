@@ -1,0 +1,75 @@
+[
+    {
+        "name":"Smooth Gel Ink Knock Type Ballpoint Pen",
+        "image":"../assets/Product1_MujiPen.webp",
+        "price": "$1.90",
+        "description":"This gel ink pen has a quick-drying, water-based ink that creates a smooth universal writing or sketching experience whether you're left or right-handed, and prevents bleed-through on paper."
+    },
+    {
+        "name":"Gel Ink Ballpoint Cap Pen",
+        "image":"../assets/Product2_MujiPen.webp",
+        "price": "$1.90",
+        "description":"Our top-rated pen features a special tip mechanism that prevents ink from drying out. Its water based ink allows for smooth writing and no bleeding through paper."
+    },
+    {
+        "name":"Aluminum Hex Ballpoint Pen",
+        "image":"../assets/Product3_BallpointPen.webp",
+        "price":"$8.50",
+        "description":"This black-ink, durable ballpoint pen has a 0.7mm needle-type tip and a convenient hexagonal shape that makes it easy to hold."
+    },
+    {
+        "name":"Wooden Hex Ballpoint Pen",
+        "image":"../assets/Product4_WoodenBallpoint.webp",
+        "price":"$7.40",
+        "description":"The hexagonal shape makes this pen easier to grip and prevents it from rolling around. In addition, the wooden body is slightly textured to make an attractive and easy to use pen."
+    },
+    {
+        "name":"Planting Tree Paper Double Ringed Ruled Notebook",
+        "image":"../assets/Product5_Notebook.webp",
+        "price":"$2.50",
+        "description":"A simple, line-ruled double-ring notebook with 7 mm line spacing. The rings allow you to flip the cover over completely and write from any orientation."
+    },
+    {
+        "name":"Recycled Paper Lined Notebook",
+        "image":"../assets/Product6_RecycledNotebook.webp",
+        "price":"$0.90",
+        "description":"A lined paper notebook that's ideal for academics and arts and crafts no matter how large or small the project is."
+    },
+    {
+        "name":"A6 Monthly Planner",
+        "image":"../assets/Product7_MonthlyPlannerA6.webp",
+        "price":"$6.90",
+        "description":"This monthly planner starts on Sunday and includes 2-page monthly spreads with lined pages for notes. Comes with a vinyl cover to protect against light spills and debris."
+    },
+    {
+        "name":"Recycled Paper Monthly Planner",
+        "image":"../assets/Product8_RecycledMonthlyPlanner.webp",
+        "price":"$1.90",
+        "description":"A planner that allows you to freely write the date so you can start using it anytime."
+    },
+    {
+        "name":"Square Sticky Notes - 75 x 75 mm",
+        "image":"../assets/Product9_StickyNotes.webp",
+        "price":"$1.90",
+        "description":"Keep yourself organized and never forget a task again with these medium-sized square sticky notes."
+    },
+    {
+        "name":"Cat Sticky Notes",
+        "image":"../assets/Product10_CatStickyNotes.webp",
+        "price":"$6.90",
+        "description":"Add some feline fun to your organization with our Cat Sticky Notes! Choose from 3 charming cat designs to decorate your notebooks and planners."
+    },
+    {
+        "name":"Polypropylene Pen Case",
+        "image":"../assets/Product11_PenCase.webp",
+        "price":"$1.90",
+        "description":"A pen case made out of polypropylene. Perfect for storing stationery, school supplies or small items. It's translucent design makes it easy to tell what is inside."
+    },
+    {
+        "name":"Nylon Mesh Vertical/Horizontal Pen Case Wide - Pink",
+        "image":"../assets/Product12_MeshPenCase.webp",
+        "price":"$8.90",
+        "description":"A pen case made of light and durable nylon mesh fabric, structured in a way that can open  both horizontally or vertically for your convenience. "
+    }
+]
+    

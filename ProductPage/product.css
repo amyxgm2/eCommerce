@@ -1,0 +1,56 @@
+header{
+    position: fixed;
+    background-color:white;
+    top:0;
+    left:0;
+    right:0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    z-index: 50;
+    align-items: center;
+    box-shadow: 0 4px 6px pink;
+}
+
+.img{
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.logo{
+    padding: 10px;
+    margin: 10px;
+    width: 130px;
+    height: auto;
+}
+
+.menu {
+    float: right;   
+}
+
+.menu a{
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333
+}
+
+.menu a:hover {
+    color: pink;
+}
+
+#productContainer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+#productContainer img{
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
