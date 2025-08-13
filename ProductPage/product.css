@@ -1,3 +1,9 @@
+body{
+    font-family: sans-serif, Arial, Helvetica;
+    background-image: url(/assets/Background\ .png);
+    padding-top: 200px;
+}
+
 header{
     position: fixed;
     background-color:white;
@@ -53,4 +59,21 @@ header{
     height: auto;
     object-fit: contain;
     margin-bottom: 10px;
+}
+
+
+
+footer {
+    background-color: pink;
+    color: black; 
+    text-align: center; 
+    padding: 25px;
+    margin-top: 40px; 
+}
+
+footer img{
+    padding: 10px;
+    margin: 10px;
+    width: 130px;
+    height: auto;
 }

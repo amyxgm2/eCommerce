@@ -1,5 +1,7 @@
 body{
     font-family: sans-serif, Arial, Helvetica;
+    background-image: url(assets/Background\ .png);
+    padding-top: 100px;
 }
 
 .heroVideo{
@@ -51,6 +53,13 @@ header{
 
 .menu a:hover {
     color: pink;
+}
+
+.introTextBox{
+    text-align:center;
+    background-color: pink;
+    padding: 25px;
+    font-weight: bold;
 }
 
 footer {

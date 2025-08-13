@@ -1,5 +1,3 @@
-const products = ["Smooth Gel Ink Knock Type Ballpoint Pen", ""];
-
 fetch("products.json") // where to get the information
     .then(response => response.json()) //open the file 
     .then(products => {

@@ -1,0 +1,126 @@
+body{
+    font-family: sans-serif, Arial, Helvetica;
+    background-image: url(/assets/Background\ .png);
+    padding-top: 200px;
+}
+
+header{
+    position: fixed;
+    background-color:white;
+    top:0;
+    left:0;
+    right:0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    z-index: 50;
+    align-items: center;
+    box-shadow: 0 4px 6px pink;
+}
+
+.img{
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.logo{
+    padding: 10px;
+    margin: 10px;
+    width: 130px;
+    height: auto;
+}
+
+.menu {
+    float: right;   
+}
+
+.menu a{
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333
+}
+
+.menu a:hover {
+    color: pink;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: pink;
+}
+
+.formContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+form {
+  display: block;
+  margin-top: 0em;
+  background-color: white;
+  padding: 2em 3em;
+  width: 200px;
+  border-radius: 10px;
+}
+
+label{
+    display: block;
+    margin-top: 1em;
+}
+
+input{
+    padding: 0.5em;
+    border: solid 1px #999;
+    width: 15em;
+}
+
+
+textarea{
+    height: 150px;
+    width: 100%;
+    padding: 1em;
+    border: solid 1px #999;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+input[type="submit"]{
+    padding: 0.5em 1em;
+    margin-top: 20px;
+    border-radius: 6px;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.8em;
+}
+
+#submitButton{
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: pink;
+    color: black; 
+    text-align: center; 
+    padding: 25px;
+    margin-top: 40px; 
+}
+
+footer img{
+    padding: 10px;
+    margin: 10px;
+    width: 130px;
+    height: auto;
+}
+
+#statusCheck{
+    color:red;
+}
