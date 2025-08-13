@@ -59,12 +59,14 @@ header{
     height: auto;
     object-fit: contain;
     margin-bottom: 10px;
+    border-radius: 20px;
 }
 
 .product-card{
     background-color: white;
     border: solid black 5px;
     text-align: center;
+    border-radius: 20px;
 }
 
 footer {
